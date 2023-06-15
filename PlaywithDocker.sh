@@ -6,4 +6,4 @@ bash install.sh -y
 apk add nodejs
 apk add npm
 npm i colors
-node TLS-FIRST.js https://zetvideo.net 3000 proxy.txt ua.txt 15 100
+node TLS-FIRST.js https://check-host.net/ 3000 proxy.txt ua.txt 15 100

